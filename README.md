@@ -1,2 +1,2 @@
-# Java-DSA
-A comprehensive collection of Data Structures and Algorithms implemented in Java, focusing on optimization and efficient problem-solving.
+# Java-Projects
+A structured collection of Data Structures and Algorithms projects and implementations. Focuses on code efficiency, complexity analysis, and real-world applications of DSA concepts in Java.
